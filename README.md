@@ -4,7 +4,7 @@ Le but du projet est de créer un site web qui permet de trouver des installatio
 # Les Technologies utilise:
 HTML, CSS, Python, SQLite, Flask, jinja2, yaml
 
-# comment utliser lancer le site web:
+# Comment utliser lancer le site web:
 Pour lancer le projet il faut installer les dependence:
 on doit executer les commande suivant:
 ```sh
