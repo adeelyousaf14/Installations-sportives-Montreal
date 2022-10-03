@@ -1,7 +1,7 @@
 # Description de projet:
-Le but de projet est de cree un siteweb qui permet de trouver installation sportives de la ville de Montréal.
+Le but du projet est de créer un site web qui permet de trouver des installations sportives de la ville de Montréal.
 
-# les Technologies utilise:
+# Les Technologies utilise:
 HTML, CSS, Python, SQLite, Flask, jinja2, yaml
 
 # comment utliser lancer le site web:
