@@ -1,4 +1,4 @@
-# Description de projet:
+# Description du projet:
 Le but du projet est de créer un site web qui permet de trouver des installations sportives de la ville de Montréal.
 
 # Les Technologies utilise:
